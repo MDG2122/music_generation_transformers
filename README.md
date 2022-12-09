@@ -23,6 +23,8 @@ Then, after fine-tuning the model for 20 epochs, the resulting composition from 
 ![Screenshot](images/20_epochs.jpg)
 
 
+Original README next:
+
 # MusicAutobot
 
 Using Deep Learning to generate pop music! 
