@@ -2,7 +2,7 @@ Implementation of MusicAutoBot, original code from:
 
 https://github.com/bearpelican/musicautobot/tree/15bc523548f8ae737a594ee92564538d02e0dc94
 
-Project: Music Composition using Transformers. Fine-Tuning from Piano Dataset to Violin Dataset.
+Project: Music Composition using Transformers. Fine-Tuning from Piano music to Violin music.
 
 Dataset for fine-tuning created manually using data from:
 
