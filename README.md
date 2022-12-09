@@ -18,7 +18,7 @@ The model was able to create predictions from scratch in both cases, with the pr
 
 ![Screenshot](images/0_epochs.jpg)
 
-Then, after fine-tuning the model for 20 epochs, the resulting composition from scratch resembles a violin composition, even the key changed from F key to G key (used more for violin pieces):
+Then, after fine-tuning the model for 20 epochs, the resulting composition from scratch resembles a violin composition, even the key changed from F key to G key (used for violin pieces):
 
 ![Screenshot](images/20_epochs.jpg)
 
