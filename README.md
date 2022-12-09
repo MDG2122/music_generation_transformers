@@ -1,3 +1,25 @@
+Implementation of MusicAutoBot, original code from:
+
+https://github.com/bearpelican/musicautobot/tree/15bc523548f8ae737a594ee92564538d02e0dc94
+
+Project: Music Composition using Transformers. Fine-Tuning from Piano Dataset to Violin Dataset.
+
+Dataset for fine-tuning created manually using data from:
+
+http://www.jsbach.net/midi/midi_solo_violin.html
+https://bitmidi.com/eine-kleine-nachtmusik1-violin-mid
+
+Results:
+
+The model was able to create predictions from scratch in both cases, with the pretrained model, the results are similar to a piano composition, as expected:
+
+![Screenshot](images/0_epochs.jpg)
+
+Then, after fine-tuning the model for 20 epochs, the resulting composition from scratch resembles a violin composition, even the key changed from F key to G key (used more for violin pieces):
+
+![Screenshot](images/20_epochs.jpg)
+
+
 # MusicAutobot
 
 Using Deep Learning to generate pop music! 
