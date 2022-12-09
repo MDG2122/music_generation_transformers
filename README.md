@@ -22,6 +22,7 @@ Then, after fine-tuning the model for 20 epochs, the resulting composition from 
 
 ![Screenshot](images/20_epochs.jpg)
 
+Both notebooks available in the /notebooks/final_files/ folder: Pretrained.ipynb and Fine-Tuning 20 epochs.ipynb, for pretrained and fine-tuned model, respectively.
 
 Original README next:
 
