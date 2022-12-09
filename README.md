@@ -9,6 +9,8 @@ Dataset for fine-tuning created manually using data from:
 http://www.jsbach.net/midi/midi_solo_violin.html
 https://bitmidi.com/eine-kleine-nachtmusik1-violin-mid
 
+Note: The dataset for fine-tuning consists of Sonatas and Partitas for solo violin, composed by J.S. Bach. The second link was used for testing only and contains just a single Mozart composition (Eine Kleine Nachtmusik).
+
 Results:
 
 The model was able to create predictions from scratch in both cases, with the pretrained model, the results are similar to a piano composition, as expected:
